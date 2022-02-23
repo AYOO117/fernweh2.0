@@ -1,4 +1,4 @@
-# fernweh2.0
+# fernweh2.0 this is a desktop friendly website please try to watch it on a pc or laptop only 
 i have just started learning html and css, so here is the front hand of the website i have made 
 
 this is a website for people who loves trekking and want to plan a trip or just to explore most amazing treks of india
